@@ -25,12 +25,12 @@ GIT
 PATH
   remote: /Users/kul/mygem/jinda_adminlte
   specs:
-    jinda_adminlte (0.0.1)
+    jinda_adminlte (0.0.2)
 
 PATH
   remote: /Users/kul/mygem/jinda
   specs:
-    jinda (0.0.1)
+    jinda (0.0.2)
 
 GEM
   remote: https://rubygems.org/
