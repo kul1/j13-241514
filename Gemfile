@@ -5,8 +5,8 @@ git_source(:github) do |repo_name|
   "https://github.com/#{repo_name}.git"
 end
 
-gem 'jinda', path: '/Users/kul/mygem/jinda'
-gem 'jinda_adminlte', path: '/Users/kul/mygem/jinda_adminlte'
+gem 'jinda'
+gem 'jinda_adminlte'
 
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
